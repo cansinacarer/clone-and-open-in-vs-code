@@ -2,6 +2,9 @@
 
 This repository contains a Javascript snippet that opens VSCode and instructs it to clone the repository you are viewing in your browser.
 
+## Demo
+![Demo](img/demo.gif)
+
 ## Usage
 
 You can create a bookmark with the following as the URL. Then this bookmark becomes the shortcut for cloning a repository.
